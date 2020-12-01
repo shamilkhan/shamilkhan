@@ -1,2 +1,1 @@
-# FrontEnd Developer 🌬 🧸
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" />
+# FrontEnd Developer 🌬 🧸 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" />
