@@ -19,4 +19,7 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
  <a href="mailto:vlad@shamilkhan1999@gmail.com">
     <img width="45" src="/gmail.svg" />
  </a>
+ <a href="skype:live:.cid.5582895695cbd72d">
+   Skype Link
+ </a>
 </div>
