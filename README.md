@@ -1,8 +1,8 @@
 
 ```tsx
-✋ Hi, my name is Shamilkhan! 
+`✋ Hi, my name is Shamilkhan! 
 I am a software engineer with 5+ years of experience in web dev👨‍💻. 
-I have 3+ years of experience with mapbox and 4+ years with React.
+I have 3+ years of experience with mapbox and 4+ years with ${React}.`
 // Contacts links 👇
 ```
       
