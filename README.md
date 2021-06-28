@@ -18,6 +18,6 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
     <img width="30" src="/github.svg" />
  </a>
  <a href="mailto:shamilkhan1999@gmail.com">
-    <img width="30" src="/gmail.svg" />
+    <img width="30" src="https://i.gifer.com/18rg.gif" />
  </a>
 </div>
