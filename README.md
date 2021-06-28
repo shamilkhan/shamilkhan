@@ -7,10 +7,10 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
 ```
       
 <div>
- <a href="#">
+ <a href="https://t.me/shamilkhan">
    <img width="50" src="/telegram.svg" />
  </a>
- <a href="#2">
-   Sample link 2
+ <a href="https://github.com/shamilkhan">
+    <img width="50" src="/github.svg" />
  </a>
 </div>
