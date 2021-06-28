@@ -1,5 +1,5 @@
 # Front-end developer 
 ```tsx
-// Hi, my name is Shamilkhan!
+const description =  "Hi, my name is Shamilkhan!";
 ```
       
