@@ -20,4 +20,5 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
  <a href="mailto:shamilkhan1999@gmail.com">
     <img width="30" src="/gmail.svg" />
  </a>
+ <img height="30" src="/js.gif" />
 </div>
