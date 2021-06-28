@@ -8,7 +8,7 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
       
 <div>
  <a href="#">
-   Sample link
+   <img src="/telegram.svg" />
  </a>
  <a href="#2">
    Sample link 2
