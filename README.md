@@ -1,4 +1,3 @@
-<h1 style="color:blue;">Senior Frontend Developer | React, Mapbox, Typescript, NodeJs, GIS</h1>
 
 ```tsx
 `✋ Hi, my name is Shamilkhan! 
