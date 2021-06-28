@@ -8,9 +8,9 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
       
 <div>
  <a href="https://t.me/shamilkhan">
-   <img width="30" src="/telegram.svg" />
+   <img width="45" src="/telegram.svg" />
  </a>
  <a href="https://github.com/shamilkhan">
-    <img width="30" src="/github.svg" />
+    <img width="45" src="/github.svg" />
  </a>
 </div>
