@@ -10,4 +10,7 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
  <a href="#">
    Sample link
  </a>
+ <a href="#2">
+   Sample link 2
+ </a>
 </div>
