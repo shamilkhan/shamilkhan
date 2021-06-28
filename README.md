@@ -20,5 +20,7 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
  <a href="mailto:shamilkhan1999@gmail.com">
     <img height="35" src="/gmail.svg" />
  </a>
- <img height="35" src="/js.gif" />
+ <a href="https://www.notion.so/Senior-Front-end-Developer-Mapbox-React-expert-e8a13f4077eb4736b3a20e264d6a491d">
+   <img height="35" src="/js.gif" />
+ </a>
 </div>
