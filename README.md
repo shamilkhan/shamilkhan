@@ -1,4 +1,4 @@
-<h1>Senior Frontend Developer | React, Mapbox, Typescript, NodeJs, GIS</h1>
+<h1 style="color:blue">Senior Frontend Developer | React, Mapbox, Typescript, NodeJs, GIS</h1>
 
 ```tsx
 const description =  `✋ Hi, my name is Shamilkhan! 
