@@ -9,16 +9,16 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
       
 <div>
  <a href="https://www.linkedin.com/in/shamilkhan-akhmetzyanov/">
-   <img height="30" width="30" src="/linkedin.svg" />
+   <img height="35" src="/linkedin.svg" />
  </a>
  <a href="https://t.me/shamilkhan">
-   <img height="30" width="30" src="/telegram.svg" />
+   <img height="35" src="/telegram.svg" />
  </a>
  <a href="https://github.com/shamilkhan">
-    <img height="30" width="30" src="/github.svg" />
+    <img height="35" src="/github.svg" />
  </a>
  <a href="mailto:shamilkhan1999@gmail.com">
-    <img height="30" width="30" src="/gmail.svg" />
+    <img height="35" src="/gmail.svg" />
  </a>
- <img height="30" src="/js.gif" />
+ <img height="35" src="/js.gif" />
 </div>
