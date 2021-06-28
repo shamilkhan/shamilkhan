@@ -16,7 +16,7 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
  <a href="https://github.com/shamilkhan">
     <img width="45" src="/github.svg" />
  </a>
- <a href="mailto:vlad@shamilkhan1999@gmail.com">
+ <a href="mailto:shamilkhan1999@gmail.com">
     <img width="45" src="/gmail.svg" />
  </a>
 </div>
