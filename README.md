@@ -7,6 +7,9 @@ I have 3+ years of experience with mapbox and 4+ years with React. `;
 ```
       
 <div>
+ <a href="https://www.linkedin.com/in/shamilkhan-akhmetzyanov/">
+   <img width="45" src="/linkedin.svg" />
+ </a>
  <a href="https://t.me/shamilkhan">
    <img width="45" src="/telegram.svg" />
  </a>
