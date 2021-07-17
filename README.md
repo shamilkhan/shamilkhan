@@ -24,7 +24,6 @@ I have 3+ years of experience with mapbox and 4+ years with React.`
  </a>
 </div>
 
-<---->
 <div>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt="html5" width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt="css3" width="30" height="30"/>
