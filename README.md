@@ -26,7 +26,7 @@ I have 3+ years of experience with mapbox and 4+ years with React.`
 
 <hr />
 
-### My skills:
+<h3 align="center">My skills:</h3>
 
 <p align="center">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt="html5" width="30" height="30"/>
